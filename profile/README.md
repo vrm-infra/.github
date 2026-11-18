@@ -1,12 +1,12 @@
+<!-- readme: kind=profile -->
 # vrm-infra
 
-Internal tooling and infrastructure behind the other vrm organizations.
+vrm-infra holds internal tooling and infrastructure.
+Most repositories are private.
 
-| Area | Repositories |
-|:--|:--|
-| Agent tooling | vrm-split, pi-box, open-appa, jarvis |
-| Self-hosting | hermes-stack, ai_layer_setup, komodo-setup, kasse |
-| Workstation | system-map, openlinkhub, uv_cookiecutter |
+## Public repositories
 
-The repositories are private.
-Public work lives on [github.com/Yuvraj-Dhepe](https://github.com/Yuvraj-Dhepe).
+- [openlit](https://github.com/vrm-infra/openlit): open-source platform to trace, evaluate, and guard AI agents on OpenTelemetry.
+- [boubou](https://github.com/vrm-infra/boubou): run voice AI locally with open-source models on any device.
+
+Other public work lives on [github.com/Yuvraj-Dhepe](https://github.com/Yuvraj-Dhepe).
